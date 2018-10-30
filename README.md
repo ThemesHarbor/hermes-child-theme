@@ -1,10 +1,10 @@
-# Venture child theme
+# Hermes child theme
 
-The venture child theme is a starter blank child theme for the [Venture WordPress theme](https://themesharbor.com/downloads/venture/).
+The Hermes child theme is a starter blank child theme for the [Hermes WordPress theme](https://themesharbor.com/downloads/hermes/).
 
 ## Renaming _(optional)_
 
-By default, GitHub adds "master" to the text of the zip file. You can rename the **zip** file of the child theme, so it is not called _venture-child-master.zip_. It's better to have a folder that is called **venture-child** rather than **venture-child-master** because it makes more sense :)
+By default, GitHub adds "master" to the text of the zip file. You can rename the **zip** file of the child theme, so it is not called _hermes-child-master.zip_. It's better to have a folder that is called **hermes-child** rather than **hermes-child-master** because it makes more sense :)
 
 ## Installation
 
